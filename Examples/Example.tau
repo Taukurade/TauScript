@@ -10,7 +10,7 @@
 #string = "variable can contain string";
 #str = "nig";
 #ing = "ht";
-stdin = #input;
+stdin #input;
 stdout #input;
 stdout #str + #ing;
 stdout #result;
