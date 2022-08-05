@@ -1,0 +1,4 @@
+#message = "Hello, ";
+stdout "tell me your name: ";
+stdin #name;
+stdout #message + #name + "!";

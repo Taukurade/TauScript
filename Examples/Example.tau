@@ -1,0 +1,18 @@
+#one = 100 + 12 - (10 + 2);
+
+%an comment, Can contain any symbol 1234567890 -/+!@#$%^&*()%
+
+#two = 100;
+
+%another comment, работает даже кириллица%
+
+#result = #one - #two;
+#string = "variable can contain string";
+#str = "nig";
+#ing = "ht";
+stdin = #input;
+stdout #input;
+stdout #str + #ing;
+stdout #result;
+stdout #string;
+stdout "code can output string 1234567890-=!@#$%^&*()_+\|//";
